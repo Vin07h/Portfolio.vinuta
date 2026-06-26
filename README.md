@@ -1,20 +1,18 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Portfolio Vinuta
 
-# Run and deploy your AI Studio app
+A web application featuring an integration with the Gemini API, built using Node.js.
 
-This contains everything you need to run your app locally.
+[![View Live App](https://img.shields.io/badge/View%20Live%20App-🚀-blue?style=for-the-badge)](https://ai.studio/apps/dc0b8fec-b545-4bbb-98f9-a2bb19ead495)
 
-View your app in AI Studio: https://ai.studio/apps/dc0b8fec-b545-4bbb-98f9-a2bb19ead495
+---
 
-## Run Locally
+## 🚀 Run Locally
 
-**Prerequisites:**  Node.js
+### Prerequisites
+Make sure you have **Node.js** installed on your machine.
 
+### Installation Steps
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. **Install dependencies:**
+   ```bash
+   npm install
